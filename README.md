@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Thushar!
+## Hey, I'm Thushar!
 Languages I use:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,kotlin,cs,mysql,js,ts,html,css)](https://skillicons.dev)
