@@ -1,6 +1,6 @@
 ## Hey, I'm Thushar!
 Programmer with a passion for problem solving and building clean, efficient code.
-<p>Check out <a href="https://github.com/thushar003/WeatherStats">WeatherStats</a></p>
+<p>Check out <a href="https://github.com/thushar003/WeatherStats">WeatherStats</a> and the <a href="https://github.com/thushar003/recipehub-api">RecipeHub API</a></p>
 
 ## Languages I use:
 
