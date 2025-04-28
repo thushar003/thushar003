@@ -33,5 +33,7 @@ I like messing around with different programming languages and trying out new st
 ## Contact Me
 
 <p align="center">
-<a [href="mailto:thusharjoji2@gmail.com](mailto:href=%22mailto:thusharjoji2@gmail.com)"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thusharjoji2@gmail.com" target="_blank" onclick="if(!window.open('https://mail.google.com/mail/?view=cm&fs=1&to=thusharjoji2@gmail.com', '_blank')){window.location.href='mailto:thusharjoji2@gmail.com';}">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
