@@ -23,13 +23,6 @@ I like messing around with different programming languages and trying out new st
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushar003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## Contact Me
 
 <p align="center">
