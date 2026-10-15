@@ -22,6 +22,7 @@ I build full-stack web apps in **C#** and **React**, and I like testing them pro
 | **GPA** | 4.1, Dean's Honours List every semester |
 | **Languages** | English and French (TEF Canada: Writing C1, Reading B2, Listening B2, Speaking B2) |
 | **Currently** | Building **Beacon**, preparing for **ISTQB Foundation Level (CTFL)** and **CompTIA A+**, learning **Selenium** |
+| **IT support** | Active Directory home lab: Windows Server 2022 domain, Group Policy, user and account management |
 
 ---
 
@@ -30,6 +31,7 @@ I build full-stack web apps in **C#** and **React**, and I like testing them pro
 | Project | What it is | Highlights |
 |---|---|---|
 | **[Beacon](https://github.com/thushar003/Beacon)** *(in progress)* | Help-desk / support ticket system | ASP.NET Core API, React + TypeScript front end, SQL database; ticket assignment, status tracking, priorities |
+| **[Active Directory Home Lab](https://github.com/thushar003/active-directory-home-lab)** | Windows Server 2022 domain in VirtualBox | AD DS and DNS, Group Policy, OUs and security groups, a Windows 11 client joined to the domain, and a written runbook for an account lockout |
 | **ITinder** *(team of 4)* | Networking and matching platform for IT professionals | React, Node.js/Express, Supabase (PostgreSQL). I designed the front end, contributed to database design, and reviewed and merged pull requests in sprints with testing in each one |
 | **[Casestudy](https://github.com/thushar003/Casestudy)** | Full-stack CRUD web app | C# backend with a React front end; DAOs, repositories, class libraries; **11 xUnit tests** covering create, read, update, and delete |
 | **[WeatherStats](https://github.com/thushar003/WeatherStats)** | Android weather app | Kotlin and Jetpack Compose; live weather for any city via the Weatherstack API |
@@ -55,6 +57,10 @@ I build full-stack web apps in **C#** and **React**, and I like testing them pro
 **Testing and tools**
 
 <table><tr><td align="center" width="90"><img src="xunit.svg" width="48" height="48" alt="xUnit"><br><sub><b>xUnit</b></sub></td><td align="center" width="90"><img src="git.svg" width="48" height="48" alt="Git"><br><sub><b>Git</b></sub></td><td align="center" width="90"><img src="github.svg" width="48" height="48" alt="GitHub"><br><sub><b>GitHub</b></sub></td><td align="center" width="90"><img src="androidstudio.svg" width="48" height="48" alt="Android Studio"><br><sub><b>Android Studio</b></sub></td><td align="center" width="90"><img src="unity.svg" width="48" height="48" alt="Unity"><br><sub><b>Unity</b></sub></td></tr></table>
+
+**IT support**
+
+Active Directory &nbsp;·&nbsp; Group Policy &nbsp;·&nbsp; Windows Server &nbsp;·&nbsp; DNS &nbsp;·&nbsp; VirtualBox
 
 **Learning**
 
